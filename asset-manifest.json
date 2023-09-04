@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/archeana/robofriends/static/css/main.9347501b.css",
+    "main.js": "/archeana/robofriends/static/js/main.3ab62ccb.js",
+    "static/js/787.32032a02.chunk.js": "/archeana/robofriends/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/archeana/robofriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/archeana/robofriends/index.html",
+    "main.9347501b.css.map": "/archeana/robofriends/static/css/main.9347501b.css.map",
+    "main.3ab62ccb.js.map": "/archeana/robofriends/static/js/main.3ab62ccb.js.map",
+    "787.32032a02.chunk.js.map": "/archeana/robofriends/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9347501b.css",
+    "static/js/main.3ab62ccb.js"
+  ]
+}
